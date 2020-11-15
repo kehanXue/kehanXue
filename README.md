@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 My blog: [Kehan's Blog](https://blog.kehan.site)
 
-![Kehan's github stats](https://github-readme-stats.vercel.app/api?username=kehanXue&show_icons=true&count_private=true&theme=graywhite)
+![Kehan's github stats](https://github-readme-stats.vercel.app/api?username=kehanXue&show_icons=true&count_private=true&theme=graywhite&&hide=stars,contribs)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kehanXue&hide=html&layout=compact&theme=graywhite)
