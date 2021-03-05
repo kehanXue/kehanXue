@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-~~My personal homepage: [Kehan's Site](https://kehan.site)~~ (long time no update...if I passed my English Test I'll go back soon)
+~~My personal homepage: [Kehan's Site](https://kehan.site)~~ (long time no update... I'll go back soon)
 
 My blog: [Kehan's Blog](https://blog.kehan.site)
 
