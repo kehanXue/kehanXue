@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-~~My personal homepage: [Kehan's Site](https://kehan.site)~~ (long time no update... I'll go back soon)
+~~My personal homepage: [Kehan's Homepage](https://kehan.xyz)~~ (long time no update... I'll go back soon)
 
-My blog: [Kehan's Blog](https://blog.kehan.site)
+My blog: [Kehan's Blog](https://blog.kehan.xyz)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kehanXue&hide=html&layout=compact)
